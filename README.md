@@ -1,4 +1,4 @@
-# Dance-Website-using-pug
+# teaching-Website-using-pug
 
 Just download and extract this file .
 
